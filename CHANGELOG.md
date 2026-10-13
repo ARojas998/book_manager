@@ -1,5 +1,13 @@
 # Changelog
 
+### Ejercicio 04 — Capa de servicios
+
+- Se implementó la lógica de negocio para géneros, editoriales, monedas, tipos de cotización, libros, precios, stock y cotizaciones del dólar.
+- Se incorporaron validaciones para evitar duplicados, operaciones sobre entidades inexistentes y eliminaciones que comprometan las relaciones entre entidades.
+- Se integraron los servicios con los repositorios existentes, manteniendo las responsabilidades separadas.
+- Se añadieron excepciones específicas para errores de negocio y operaciones inválidas.
+- Se realizaron pruebas funcionales de las operaciones y de las restricciones entre entidades.
+
 ## [Ejercicio 03]
 - Implementación de interfaces de repositorios genéricos, de stock y de cotizaciones del dólar.
 - Implementación de repositorios CSV con operaciones CRUD.
