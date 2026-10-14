@@ -1,7 +1,6 @@
 id_moneda,codigo,nombre,simbolo
 1,ARS,Peso argentino,$
 2,USD,Dólar estadounidense,US$
-3,EUR,Euro,€
 4,GBP,Libra esterlina,£
 5,JPY,Yen japonés,¥
 6,BRL,Real brasileño,R$
@@ -9,3 +8,4 @@ id_moneda,codigo,nombre,simbolo
 8,UYU,Peso uruguayo,$U
 9,CAD,Dólar canadiense,C$
 10,CHF,Franco suizo,CHF
+11,EUR,Euro,€

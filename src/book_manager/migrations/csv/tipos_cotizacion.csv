@@ -1,5 +1,4 @@
 id_tipo,nombre
-1,Oficial
 2,Blue
 3,Mayorista
 4,Minorista
@@ -9,3 +8,4 @@ id_tipo,nombre
 8,Ahorro
 9,Cripto
 10,Turista
+11,Oficial
