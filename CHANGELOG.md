@@ -1,5 +1,24 @@
 # Changelog
 
+### Día 7: Punto de entrada principal
+
+- Creación de main.py como punto de entrada de la aplicación.
+
+- Integración con la interfaz de consola para iniciar el sistema desde el programa principal.
+
+- Verificación de la ejecución del menú principal.
+
+### Día 6: Interfaz de consola CRUD
+
+- Implementación del menú principal y los submenús de gestión de entidades.
+- Incorporación de operaciones de creación, consulta, modificación y eliminación (CRUD).
+- Integración de la interfaz de consola con la capa de servicios del sistema.
+
+### Día 5: Precarga de datos
+
+- Implementación de la precarga de datos iniciales para las entidades del sistema.
+- Incorporación de registros de ejemplo en los archivos CSV para facilitar el uso y la demostración del sistema.
+
 ### Ejercicio 04 — Capa de servicios
 
 - Se implementó la lógica de negocio para géneros, editoriales, monedas, tipos de cotización, libros, precios, stock y cotizaciones del dólar.
