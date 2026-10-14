@@ -1,0 +1,11 @@
+id_libro,isbn,titulo,autor,id_editorial,id_genero
+1,9780140449136,La República,Platón,8,6
+2,9788491050291,1984,George Orwell,6,2
+3,9788497592208,Cien años de soledad,Gabriel García Márquez,4,1
+4,9788497593793,El amor en los tiempos del cólera,Gabriel García Márquez,6,1
+5,9780307474728,Crónica de una muerte anunciada,Gabriel García Márquez,6,1
+6,9788445071414,El hobbit,J. R. R. Tolkien,2,3
+7,9788497594258,Fahrenheit 451,Ray Bradbury,6,2
+8,9788497593060,El principito,Antoine de Saint-Exupéry,5,3
+9,9788437604947,Don Quijote de la Mancha,Miguel de Cervantes,3,1
+10,9780262033848,Introduction to Algorithms,Thomas H. Cormen,10,8
